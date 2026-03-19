@@ -1,4 +1,4 @@
-             public class Main {
+public class Main3 {
     public static void main(String[] args) {
 
         ERyder bike1 = new ERyder();
