@@ -13,7 +13,7 @@ public class ParenthesesChecker {
         char[] chars = str.toCharArray();
         for (char c : chars) {
 
-            if (c == '(' || c == '[' || c == '{') {
+            if (c == '(' || c == '[' || c == '{') {·
                 stack.push(c);
             }
 
